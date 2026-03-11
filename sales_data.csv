@@ -1,0 +1,25 @@
+Region,Product,Revenue,Quarter,Rep
+North America,Freshsales,142000,Q1,James Carter
+North America,Freshdesk,98000,Q1,Priya Nair
+APAC,Freshsales,87000,Q1,Li Wei
+APAC,Freshservice,64000,Q1,Ananya Rao
+EMEA,Freshdesk,110000,Q1,Marco Bianchi
+EMEA,Freshsales,76000,Q1,Sofia Müller
+North America,Freshsales,158000,Q2,James Carter
+North America,Freshservice,103000,Q2,Priya Nair
+APAC,Freshdesk,91000,Q2,Li Wei
+APAC,Freshsales,79000,Q2,Ananya Rao
+EMEA,Freshsales,118000,Q2,Marco Bianchi
+EMEA,Freshservice,84000,Q2,Sofia Müller
+North America,Freshdesk,171000,Q3,James Carter
+North America,Freshsales,112000,Q3,Priya Nair
+APAC,Freshservice,95000,Q3,Li Wei
+APAC,Freshdesk,83000,Q3,Ananya Rao
+EMEA,Freshsales,127000,Q3,Marco Bianchi
+EMEA,Freshdesk,96000,Q3,Sofia Müller
+North America,Freshsales,184000,Q4,James Carter
+North America,Freshdesk,121000,Q4,Priya Nair
+APAC,Freshsales,102000,Q4,Li Wei
+APAC,Freshservice,88000,Q4,Ananya Rao
+EMEA,Freshdesk,139000,Q4,Marco Bianchi
+EMEA,Freshsales,108000,Q4,Sofia Müller
