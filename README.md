@@ -97,41 +97,9 @@ matplotlib>=3.7.0
 3. **Analyze** — The app detects intent (highest, average, trend, lowest) and maps it to the right columns
 4. **Deliver** — An answer + chart is returned in under 5 seconds
 
-### Supported Query Types
 
-| Intent Keywords | What It Does |
-|---|---|
-| `highest`, `max`, `top`, `most`, `best` | Groups by category, finds the top performer |
-| `lowest`, `min`, `least`, `worst` | Groups by category, finds the bottom performer |
-| `average`, `mean`, `avg` | Computes mean with distribution stats |
-| `trend`, `over time`, `monthly` | Plots time-series if a date column exists |
-| *(anything else)* | Returns a full summary with key metrics |
 
----
 
-## Roadmap
 
-This MVP demonstrates the core value proposition. Planned enhancements:
 
-- [ ] **LLM Integration** — Replace keyword matching with a proper NLP model (OpenAI / local LLM) for free-form query understanding
-- [ ] **Multi-table support** — Join across multiple uploaded CSVs
-- [ ] **AI Insight Generator** — Proactively surface anomalies and trends without needing to be asked
-- [ ] **CRM API connector** — Direct integration with Freshsales, Salesforce, HubSpot
-- [ ] **Export** — Download answers and charts as PDF reports
 
----
-
-## Submission Context
-
-This project was built as part of the **Rabbitt AI — Product Manager Challenge**.
-
-**Deliverables submitted:**
-- Strategy Pitch Deck (PPT)
-- Functional MVP (this repository)
-- Custom Executive Proposal (Freshworks)
-
----
-
-## License
-
-MIT — free to use, modify, and distribute.
